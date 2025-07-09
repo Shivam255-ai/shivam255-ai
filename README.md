@@ -2,7 +2,7 @@
 
 ### 🚀 Passionate Frontend, React, and Mobile Developer | Cybersecurity Learner
 
-Welcome to my GitHub! I build **clean, scalable web and mobile projects** using **React, React Native, JavaScript, HTML, CSS, and Java** while continuously expanding my cybersecurity knowledge.
+Welcome to my GitHub! I build **clean, scalable web and mobile projects** using **React, React Native, JavaScript, HTML, CSS, and Java** while continuously expanding my **cybersecurity knowledge**.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I build **clean, scalable web and mobile projects** using 
 ## 🚩 Featured Projects
 
 ### 🌐 [Personal Portfolio Website](https://github.com/Shivam255-ai/Personal-Website)
-A **responsive personal portfolio site** built with HTML, CSS, JavaScript to showcase skills and projects professionally.
+A **responsive personal portfolio site** built with HTML, CSS, and JavaScript to showcase skills and projects professionally.
 
 ### ⚛️ [My-Application](https://github.com/Shivam255-ai/My-Application)
 A **React-based application** demonstrating scalable architecture, reusable components, and hooks for dynamic frontends.
@@ -31,6 +31,9 @@ A **React Native app** demonstrating mobile UI/UX design, reusable components, a
 ### 💻 [Java Project](https://github.com/Shivam255-ai/JAVA-PROJECT)
 A **Java CLI-based learning project** showcasing OOP concepts and logical problem-solving skills.
 
+### 🛡️ [Cybersecurity Project](https://github.com/Shivam255-ai/PRODIGY-_CyberSecurity_Project)
+A **hands-on cybersecurity learning project** focusing on ethical hacking practices, basic penetration testing, and security tools for strengthening your cybersecurity fundamentals.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -41,6 +44,7 @@ A **Java CLI-based learning project** showcasing OOP concepts and logical proble
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-29a329?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
 ---
 
