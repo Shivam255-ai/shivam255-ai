@@ -1,125 +1,69 @@
-## 🚀 Shivam Kumar | AI & Cybersecurity Enthusiast
+# 👋 Hi, I’m Shivam Kumar
 
-Welcome to my GitHub! I am **Shivam Kumar**, a passionate AI and cybersecurity learner, currently working on real-world projects in **AI, ML, Java, and cybersecurity** to solve practical problems while sharpening my skills.
+### 🚀 Passionate Frontend, React, and Mobile Developer | Cybersecurity Learner
 
----
-
-### 📌 About Me
-
-* 🎓 Computer Science student interested in AI, ML, Cybersecurity.
-* 🛠️ Building practical projects to strengthen problem-solving.
-* 💡 Interested in deploying projects for real-world use.
-* 🌐 Connect with me:
-
-  * [LinkedIn](https://www.linkedin.com/in/shivam-kumar-8a407628b)
-  * 📧 Email: [shivam25kyp@gmail.com](mailto:shivam25kyp@gmail.com)
+Welcome to my GitHub! I build **clean, scalable web and mobile projects** using **React, React Native, JavaScript, HTML, CSS, and Java** while continuously expanding my cybersecurity knowledge.
 
 ---
 
-### 🚀 Top Projects
-
-#### [🌐 Personal Website Project](https://github.com/Shivam255-ai/Personal-Website)
-
-A **fully responsive personal portfolio website** to showcase projects and skills.
-
-* **Features:** Animated sections, project showcase, responsive design.
-* **Tech Used:** HTML, CSS, JavaScript.
-* **Deployment:** Easily deployable on GitHub Pages or Vercel.
-
-#### [💻 Java Project](https://github.com/Shivam255-ai/JAVA-PROJECT)
-
-A **Java-based project** demonstrating practical backend handling and logic building.
-
-* **Features:** Java core concepts, OOPs structure, CLI interactions.
-* **Tech Used:** Java.
-* **Deployment:** Can run locally using JDK.
-
-#### [📱 My Application](https://github.com/Shivam255-ai/My-Application)
-
-A **mobile application project** demonstrating UI/UX practices and app logic design.
-
-* **Features:** User-friendly design, basic app functionality.
-* **Tech Used:** Java, XML (for Android).
-* **Deployment:** Deployable on Android devices.
-
-#### [⚡ Project](https://github.com/Shivam255-ai/Project)
-
-A **project showcasing structured code for training and learning.**
-
-* **Features:** Learning-based structured coding.
-* **Tech Used:** C/Java.
-* **Deployment:** Run in a local environment.
-
-#### [🔐 PRODIGY CyberSecurity Project](https://github.com/Shivam255-ai/PRODIGY-_CyberSecurity_Project)
-
-A **cybersecurity project demonstrating practical application of security principles**.
-
-* **Features:** Practical demonstration of cybersecurity concepts.
-* **Tech Used:** Python, Security Libraries.
-* **Deployment:** Local environment.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=tokyonight)
 
 ---
 
-### ✏️ How to Contribute or Edit Code
+## 🚩 Featured Projects
 
-1. Fork the repository.
-2. Clone your fork:
+### 🌐 [Personal Portfolio Website](https://github.com/Shivam255-ai/Personal-Website)
+A **responsive personal portfolio site** built with HTML, CSS, JavaScript to showcase skills and projects professionally.
 
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   ```
-3. Make your changes in your editor.
-4. Commit with a clear message:
+### ⚛️ [My-Application](https://github.com/Shivam255-ai/My-Application)
+A **React-based application** demonstrating scalable architecture, reusable components, and hooks for dynamic frontends.
 
-   ```bash
-   git add .
-   git commit -m "Add meaningful message"
-   git push origin main
-   ```
-5. Open a Pull Request.
+### 🌐 [Project](https://github.com/Shivam255-ai/Project)
+An **interactive web project** demonstrating JavaScript interactivity, animations, and DOM manipulation.
 
----
+### ⚡ [Short Project](https://github.com/Shivam255-ai/Short-Project)
+A **compact, fast-loading frontend mini project** for quick learning and practicing JavaScript interactivity.
 
-### 🛠️ Technologies I Use
+### 📱 [Cross-Platform Mobile App (React Native)](https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native)
+A **React Native app** demonstrating mobile UI/UX design, reusable components, and responsive layouts for Android and iOS.
 
-* **Languages:** Python, Java, C, JavaScript
-* **Frameworks:** Bootstrap, Flask, Android SDK
-* **Tools:** Git, GitHub, VS Code
+### 💻 [Java Project](https://github.com/Shivam255-ai/JAVA-PROJECT)
+A **Java CLI-based learning project** showcasing OOP concepts and logical problem-solving skills.
 
 ---
 
-### 🚀 How to Deploy My Projects
+## 🛠️ Tech Stack
 
-✅ Use **GitHub Pages** for front-end projects like Personal Website.
-✅ Use **Vercel/Netlify** for React/HTML/CSS/JS apps.
-✅ Run Java projects using your **local JDK**.
-✅ Deploy Python apps using **Render/Heroku**.
-✅ For Android apps, generate APK and deploy on your Android device.
-
----
-
-### 🌐 Connecting Custom Domains
-
-✅ You can connect your projects with a custom domain via GitHub Pages, Vercel, or Netlify easily by updating DNS settings and adding your domain to your project settings.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-### 📄 License
+## 💡 What I’m Working On
 
-Most projects are under the **MIT License** unless specified.
-
----
-
-### 🤝 Let’s Connect and Collaborate!
-
-* If you are interested in AI, cybersecurity, or practical project building, feel free to collaborate.
-* Contact:
-
-  * [LinkedIn](https://www.linkedin.com/in/shivam-kumar-8a407628b)
-  * 📧 Email: [shivam25kyp@gmail.com](mailto:shivam25kyp@gmail.com)
+✅ Building **responsive React projects** for my portfolio.  
+✅ Exploring **React Native** for real-world mobile app development.  
+✅ Practicing **Java and backend fundamentals**.  
+✅ Expanding knowledge in **Cybersecurity and Ethical Hacking**.
 
 ---
 
-> **Pinned repositories on my profile are the best places to explore my work. Feel free to check out, star, fork, and learn!**
+## 📈 Let’s Connect
 
-**Thank you for visiting my GitHub! 🚀**
+- [LinkedIn](https://www.linkedin.com/in/shivam-kumar-8a407628b)
+- 📧 Email: shivam25kyp@gmail.com
+- 🌐 [Visit My Portfolio Website](https://github.com/Shivam255-ai/Personal-Website)
+
+---
+
+⭐ **If you find my projects helpful, please consider starring the repositories and following me to stay updated!**
+
+---
+
+<!-- Optional: Visitor Badge -->
+![](https://komarev.com/ghpvc/?username=Shivam255-ai&color=brightgreen&label=Profile+Views)
