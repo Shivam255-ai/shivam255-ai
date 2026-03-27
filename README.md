@@ -1,4 +1,3 @@
-
 <!-- 🔥 Animated Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Shivam+Kumar+👋;Frontend+%26+React+Developer;React+Native+Mobile+App+Builder;Cybersecurity+Enthusiast;Building+Hackathon+Winning+Projects+🚀" />
@@ -143,4 +142,4 @@ If you like my work:
 
 ---
 
-🔥 *Building. Learning. Growing. Every Day.*
+🔥 *Building. Learning. Growing. Every Day.*, can you make more professional and upgrade this redeme file and give attractive redeme file in separete , also add github project link of all project  like https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project, https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native,https://github.com/Shivam255-ai/Smart-attendance-system, https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays, https://github.com/Shivam255-ai/My-Application, https://github.com/Shivam255-ai/HACKFEST-BBSR and remove cybersecurity project and add https://github.com/Shivam255-ai/Cyber-Threat-Detection-System
