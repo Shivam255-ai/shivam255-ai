@@ -1,13 +1,14 @@
 <!-- 🔥 Animated Typing Banner -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Shivam+Kumar+👋;Frontend+%26+React+Developer;React+Native+Mobile+App+Builder;Cybersecurity+Enthusiast;Building+Hackathon+Winning+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+I'm+Shivam+Kumar+👋;Full+Stack+Developer;React+%26+React+Native+Expert;AI+%2F+ML+Engineer;Hackathon+Focused+Builder+🚀" />
 </p>
 
 ---
 
-# 👋 Hi, I’m Shivam Kumar
+# 👨‍💻 Shivam Kumar
 
-### 🚀 Full Stack Developer | React & React Native | Cybersecurity Learner
+### 🚀 Full Stack Developer | AI/ML Builder | React & React Native Specialist
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivam255-ai&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -19,34 +20,51 @@
 
 ## 🧠 About Me
 
-🎯 Passionate about building **modern web & mobile applications**  
-⚛️ Specialized in **React & React Native Development**  
-🛡️ Exploring **Cybersecurity & Ethical Hacking**  
-🚀 Focused on **real-world projects & hackathon innovation**
+💡 Building **scalable, production-ready applications**
+⚛️ Expert in **React.js & React Native ecosystem**
+🧠 Focused on **AI/ML + Real-world problem solving**
+🏆 Passionate about **hackathons & innovation-driven development**
+
+---
+
+## 🧠 Skills Progress 🚀
+
+```text
+Frontend Development   ████████████████████ 90%
+React / React Native   ██████████████████░ 85%
+Backend Development    ███████████████░░░░ 75%
+AI / Machine Learning  █████████████░░░░░░ 70%
+Data Structures        ███████████████░░░░ 75%
+System Design          ████████████░░░░░░░ 65%
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Cybersecurity
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-29a329?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🧠 AI/ML
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff6f00?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=tokyonight" height="165"/>
@@ -57,59 +75,68 @@
   <img src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=tokyonight"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Shivam255-ai/Shivam255-ai/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam255-ai&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🚩 Featured Projects
+## 🚩 Featured Projects (Interactive Cards)
 
-### 🧠 AI Project
-🔹 **AI-Based Early Warning System for Shipment Delays**  
-Predicts shipment delays using machine learning and logistics data.
+### 🧠 AI & ML Projects
+
+<a href="https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=AI-Based-Early-Warning-System-for-Shipment-Delays&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=Crop-Yield-Prediction-Project&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Shivam255-ai/Cyber-Threat-Detection-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=Cyber-Threat-Detection-System&theme=tokyonight" />
+</a>
 
 ---
 
 ### 📱 Mobile App
-🔹 **Cross-Platform Mobile App (React Native)**  
-Modern mobile app with reusable components and responsive UI.
+
+<a href="https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=Cross-Platform-Mobile-App-using-React-Native&theme=tokyonight" />
+</a>
 
 ---
 
-### ⚛️ React Projects
-🔹 **React Application** – Scalable frontend architecture  
-🔹 **Interactive JS Project** – DOM & animations  
+### ⚛️ Full Stack & Web Projects
 
----
+<a href="https://github.com/Shivam255-ai/Smart-attendance-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=Smart-attendance-system&theme=tokyonight" />
+</a>
 
-### 🌐 Web Projects
-🔹 **Portfolio Website** – Personal branding site  
-🔹 **Mini Projects** – Practice & learning  
+<a href="https://github.com/Shivam255-ai/My-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=My-Application&theme=tokyonight" />
+</a>
 
----
-
-### 🛡️ Cybersecurity
-🔹 Ethical hacking & penetration testing practice projects  
+<a href="https://github.com/Shivam255-ai/HACKFEST-BBSR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam255-ai&repo=HACKFEST-BBSR&theme=tokyonight" />
+</a>
 
 ---
 
 ## 🚧 Currently Working On
 
-🚀 Advanced React Projects  
-📱 Mobile App Development  
-🧠 AI + Web Integration  
-🔐 Cybersecurity Labs  
+🚀 Scalable Full Stack Applications
+📱 Advanced React Native Apps
+🧠 AI-powered Web Systems
 
 ---
 
-## 🏆 Goals
+## 🏆 Vision & Goals
 
-🎯 Become **Full Stack Developer + Cybersecurity Engineer**  
-🏆 Build **real-world impactful projects**  
-🚀 Crack top tech opportunities  
+🎯 Become **Top 1% Full Stack Engineer**
+🧠 Master **AI + System Design + Scalable Systems**
+🚀 Build **startup-level impactful products**
+🏆 Win **national & international hackathons**
 
 ---
 
@@ -126,20 +153,20 @@ Modern mobile app with reusable components and responsive UI.
 
 ---
 
-## 💡 Quote
+## 💡 Philosophy
 
-> “First, solve the problem. Then, write the code.”
+> "First, solve the problem. Then, write the code."
 
 ---
 
-## ⭐ Support Me
+## ⭐ Support My Work
 
 If you like my work:
 
-⭐ Star my repositories  
-👨‍💻 Follow me  
-📢 Share with others  
+⭐ Star my repositories
+👨‍💻 Follow me
+📢 Share with others
 
 ---
 
-🔥 *Building. Learning. Growing. Every Day.*
+🔥 **Building at scale. Learning deeply. Winning consistently.**
