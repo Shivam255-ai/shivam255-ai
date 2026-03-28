@@ -1,7 +1,9 @@
 <!-- 👑 ADVANCED PRO Animated Banner -->
 
+<!-- 👑 UPDATED PROFESSIONAL BANNER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+I'm+Shivam+Kumar+👋;Full+Stack+Developer+%7C+AI+Engineer;React+%7C+React+Native+Specialist;Building+Scalable+Real-World+Projects;Welcome+to+My+Developer+Portfolio+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+I'm+Shivam+Kumar+👋;Cybersecurity+Enthusiast+%7C+AI+%26+Python+Developer;Hackathon+Winner+🏆+INNOVATE+X+5.0;CTF+Player+%7C+Problem+Solver;Building+Secure+%26+Scalable+Systems+🚀" />
 </p>
 
 ---
@@ -9,8 +11,13 @@
 <h1 align="center">👑 Shivam Kumar</h1>
 
 <h3 align="center">
-Cybersecurity Enthusiast | 🏆 Hackathon Winner of INNOVATE X 5.0 - 2k26 🏆 | Intern at Amroha Cyber Cell (APCSIP-2025) | AI & Python Developer | CTF Player | Hacktoberfest-2025 | Google Cloud Learner
+Cybersecurity Enthusiast | 🏆 Hackathon Winner of INNOVATE X 5.0 - 2k26 🏆 | AI & Python Developer | CTF Player
 </h3>
+
+
+---
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivam255-ai&label=Profile%20Views&color=blueviolet&style=flat" />
