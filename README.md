@@ -1,106 +1,56 @@
-<!-- 👑 GOD LEVEL Animated Banner -->
+<!-- 🔥 ULTRA PRO Animated Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=1100&lines=Hi+I'm+Shivam+Kumar+👋;Full+Stack+Developer+%7C+AI+Builder;React+%7C+React+Native+Specialist;Hackathon+Winner+Mindset+🏆;Welcome+to+My+Digital+Universe+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Shivam+Kumar+👋;Full+Stack+Developer+🚀;React+%7C+React+Native+Expert;AI+Driven+Builder+💡;Hackathon+Enthusiast+🏆" />
 </p>
 
 ---
 
-<h1 align="center">👑 Shivam Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer • AI Innovator • Problem Solver</h3>
+<h1 align="center">👨‍💻 Shivam Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | React • React Native • AI Innovator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam255-ai&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Shivam255-ai&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/Shivam255-ai?style=social" />
   <img src="https://img.shields.io/github/stars/Shivam255-ai?style=social" />
 </p>
 
 ---
 
-## 🌌 Digital Identity
+## 🧠 About Me
 
-```diff
-+ Name        : Shivam Kumar
-+ Role        : Full Stack Developer
-+ Focus       : React • React Native • AI Systems
-+ Mission     : Build impactful, scalable tech products
-+ Mindset     : Hack • Build • Learn • Repeat
-```
+✨ Building **real-world impactful applications**
+⚛️ Expert in **React & React Native ecosystems**
+🧠 Creating **AI-powered intelligent systems**
+🏆 Passionate about **hackathons & innovation**
 
 ---
 
-## ⚡ Tech Universe
+## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,vscode" />
+
+💻 **Frontend** <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+📱 **Mobile** <img src="https://skillicons.dev/icons?i=react" />
+
+⚙️ **Backend & Programming** <img src="https://skillicons.dev/icons?i=python,java" />
+
+🛠️ **Tools** <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
 
-## 🚀 Live Project Showcase
-
-### 🧠 AI Systems
-
-| Project                     | Preview                                                               | Tech        |
-| --------------------------- | --------------------------------------------------------------------- | ----------- |
-| 🔥 AI Shipment Delay System | <img src="https://via.placeholder.com/300x150.png?text=AI+Preview"/>  | Python, ML  |
-| 🌾 Crop Yield Prediction    | <img src="https://via.placeholder.com/300x150.png?text=Crop+AI"/>     | ML, Data    |
-| 🛡️ Cyber Threat Detection  | <img src="https://via.placeholder.com/300x150.png?text=Security+AI"/> | AI Security |
-
----
-
-### 📱 Mobile Apps
-
-| Project             | Preview                                                              | Tech         |
-| ------------------- | -------------------------------------------------------------------- | ------------ |
-| 📲 React Native App | <img src="https://via.placeholder.com/300x150.png?text=Mobile+App"/> | React Native |
-
----
-
-### 🌐 Web Apps
-
-| Project                    | Preview                                                                     | Tech       |
-| -------------------------- | --------------------------------------------------------------------------- | ---------- |
-| 🌐 Smart Attendance System | <img src="https://via.placeholder.com/300x150.png?text=Attendance+System"/> | MERN       |
-| 💻 My Application          | <img src="https://via.placeholder.com/300x150.png?text=Web+App"/>           | Full Stack |
-
----
-
-## 🔗 Direct Project Links
-
-* 🔥 https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays
-* 🌾 https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project
-* 🛡️ https://github.com/Shivam255-ai/Cyber-Threat-Detection-System
-* 📲 https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native
-* 🌐 https://github.com/Shivam255-ai/Smart-attendance-system
-* 💻 https://github.com/Shivam255-ai/My-Application
-* 🏆 https://github.com/Shivam255-ai/HACKFEST-BBSR
-
----
-
-## 🧠 System Architecture (Real Dev Thinking)
-
-```mermaid
-flowchart TD
-User --> UI[React Frontend]
-UI --> API[Backend Server]
-API --> DB[(Database)]
-API --> ML[AI Model]
-ML --> Result[Prediction Engine]
-Result --> UI
-```
-
----
-
-## 📊 GitHub Power Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -113,19 +63,63 @@ Result --> UI
 
 ---
 
-## 🏆 Achievements & Future Vision
+## 🚀 Featured Projects
 
-🚀 Building **industry-level projects**
-🏆 Targeting **top hackathons & competitions**
-💡 Creating **AI-powered scalable products**
-📈 Becoming **Top 1% Developer**
+### 🧠 AI / Machine Learning
+
+* 🔥 [AI-Based Early Warning System for Shipment Delays](https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays)
+* 🌾 [Crop Yield Prediction Project](https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project)
+* 🛡️ [Cyber Threat Detection System](https://github.com/Shivam255-ai/Cyber-Threat-Detection-System)
 
 ---
 
-## 🌐 Portfolio (Next Upgrade)
+### 📱 Mobile Apps
 
-🚧 Coming Soon: Personal Portfolio Website
-(React + Animations + Live Projects + Case Studies)
+* 📲 [Cross Platform Mobile App (React Native)](https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native)
+
+---
+
+### 🌐 Full Stack & Web
+
+* 🌐 [Smart Attendance System](https://github.com/Shivam255-ai/Smart-attendance-system)
+* 💻 [My Application](https://github.com/Shivam255-ai/My-Application)
+
+---
+
+### 🏆 Hackathons
+
+* 🏆 [HACKFEST BBSR Project](https://github.com/Shivam255-ai/HACKFEST-BBSR)
+
+---
+
+## 🧠 Architecture Mindset
+
+```mermaid
+flowchart LR
+A[User] --> B[Frontend (React)]
+B --> C[Backend API]
+C --> D[Database]
+C --> E[AI/ML Model]
+E --> F[Predictions]
+F --> B
+```
+
+---
+
+## 📈 Growth Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam255-ai&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements & Vision
+
+🏆 Building **Top Hackathon Projects**
+🚀 Targeting **Top Tech Companies**
+💡 Creating **Scalable AI Products**
+📈 Continuous Learning & Growth
 
 ---
 
@@ -142,14 +136,20 @@ Result --> UI
 
 ---
 
-## 💡 Developer Philosophy
+## 💡 Philosophy
 
-> “Stay consistent. Build daily. Results will follow.”
+> “Code. Build. Break. Learn. Repeat.”
 
 ---
 
-## ⭐ Final Mode
+## ⭐ Support
 
 <p align="center">
-👑 <b>WELCOME TO GOD LEVEL DEVELOPER PROFILE 🚀</b>
+⭐ Star my repos • 👨‍💻 Follow me • 📢 Share my work  
+</p>
+
+---
+
+<p align="center">
+🔥 <b>ULTRA PRO DEV MODE ACTIVATED 🚀</b>
 </p>
