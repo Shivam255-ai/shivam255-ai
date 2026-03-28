@@ -7,7 +7,10 @@
 ---
 
 <h1 align="center">👑 Shivam Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer • AI Engineer • Problem Solver</h3>
+
+<h3 align="center">
+Cybersecurity Enthusiast | 🏆 Hackathon Winner of INNOVATE X 5.0 - 2k26 🏆 | Intern at Amroha Cyber Cell (APCSIP-2025) | AI & Python Developer | CTF Player | Hacktoberfest-2025 | Google Cloud Learner
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivam255-ai&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -17,13 +20,9 @@
 
 ---
 
-## 🎯 Professional Summary
+## 🧠 Professional Summary
 
-✔️ Full Stack Developer with focus on **scalable web & mobile applications**
-✔️ Strong expertise in **React & React Native ecosystems**
-✔️ Hands-on experience in **AI-based real-world systems**
-✔️ Passionate about **problem-solving, hackathons & innovation**
-✔️ Open to **internships, collaborations & tech opportunities**
+Results-driven **Full Stack Developer & AI Enthusiast** with hands-on experience in building scalable web and mobile applications. Skilled in **React, React Native, Python, and Machine Learning**, with a strong interest in **cybersecurity and real-world problem solving**. Proven ability to develop impactful solutions through hackathons and internships, with a focus on performance, clean architecture, and user-centric design.
 
 ---
 
@@ -31,16 +30,21 @@
 
 ```yaml
 Name: Shivam Kumar
-Role: Full Stack Developer
-Specialization:
-  - React.js
-  - React Native
-  - AI / Machine Learning Systems
-Tech Focus:
-  - Scalable Applications
-  - Clean UI/UX
-  - Performance Optimization
-Mission: Build impactful, production-ready applications
+Role: Full Stack Developer & AI Engineer
+Experience:
+  - Cybersecurity Intern (Amroha Cyber Cell - APCSIP 2025)
+  - Hackathon Winner (INNOVATE X 5.0 - 2026)
+Technical Skills:
+  - Frontend: React.js, HTML, CSS, JavaScript
+  - Mobile: React Native
+  - Backend: Python
+  - AI/ML: Data Analysis, Prediction Models
+  - Tools: Git, GitHub, VS Code
+Focus Areas:
+  - Full Stack Development
+  - AI-based Systems
+  - Cybersecurity Fundamentals
+Goal: Build scalable, secure, and impactful applications
 ```
 
 ---
@@ -53,49 +57,35 @@ Mission: Build impactful, production-ready applications
 
 ---
 
-## 🚀 Featured Projects (With Impact)
+## 🚀 Featured Projects
 
 ### 🧠 AI & Machine Learning
 
-🔹 **AI-Based Early Warning System for Shipment Delays**
-📌 Predicts shipment delays using ML models & logistics data
-🔗 https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays
+🔹 **[AI-Based Early Warning System for Shipment Delays](https://github.com/Shivam255-ai/AI-Based-Early-Warning-System-for-Shipment-Delays)**
+📌 Predicts shipment delays using machine learning and logistics data
 
-🔹 **Crop Yield Prediction System**
-📌 Uses data-driven models to forecast agricultural output
-🔗 https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project
+🔹 **[Crop Yield Prediction Project](https://github.com/Shivam255-ai/Crop-Yield-Prediction-Project)**
+📌 Forecasts agricultural output using data-driven ML models
 
-🔹 **Cyber Threat Detection System**
-📌 Detects anomalies & potential cyber threats using AI
-🔗 https://github.com/Shivam255-ai/Cyber-Threat-Detection-System
+🔹 **[Cyber Threat Detection System](https://github.com/Shivam255-ai/Cyber-Threat-Detection-System)**
+📌 Identifies anomalies and potential cyber threats using AI
 
 ---
 
 ### 📱 Mobile Application
 
-🔹 **Cross Platform Mobile App (React Native)**
-📌 Scalable mobile app with reusable components & responsive UI
-🔗 https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native
+🔹 **[Cross Platform Mobile App (React Native)](https://github.com/Shivam255-ai/Cross-Platform-Mobile-App-using-React-Native)**
+📌 Modern mobile app with reusable components and responsive UI
 
 ---
 
 ### 🌐 Full Stack & Web Development
 
-🔹 **Smart Attendance System**
-📌 Automates attendance tracking with efficient backend logic
-🔗 https://github.com/Shivam255-ai/Smart-attendance-system
+🔹 **[Smart Attendance System](https://github.com/Shivam255-ai/Smart-attendance-system)**
+📌 Automates attendance tracking with efficient backend integration
 
-🔹 **My Application (Full Stack Project)**
-📌 End-to-end web application with frontend & backend integration
-🔗 https://github.com/Shivam255-ai/My-Application
-
----
-
-### 🏆 Hackathon Project
-
-🔹 **HACKFEST BBSR Project**
-📌 Built under hackathon constraints focusing on innovation & speed
-🔗 https://github.com/Shivam255-ai/HACKFEST-BBSR
+🔹 **[My Application](https://github.com/Shivam255-ai/My-Application)**
+📌 End-to-end full stack web application
 
 ---
 
@@ -126,27 +116,20 @@ Prediction --> Frontend
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Shivam255-ai/Shivam255-ai/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam255-ai&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Vision
 
-🚀 Building **production-ready applications**
-🏆 Actively participating in **hackathons & competitions**
-💡 Developing **AI-powered scalable systems**
-📈 Continuously improving **development & problem-solving skills**
-
----
-
-## 🌐 Portfolio
-
-🚧 Portfolio Website Coming Soon
-(Will include live demos, case studies & deployment links)
+🏆 Hackathon Winner – INNOVATE X 5.0 (2026)
+💼 Cybersecurity Intern – Amroha Cyber Cell
+🚀 Building real-world AI & full stack applications
+📈 Continuously improving development & problem-solving skills
 
 ---
 
@@ -169,8 +152,6 @@ Prediction --> Frontend
 
 ---
 
-## ⭐ Final Note
-
 <p align="center">
-🚀 <b>Building Real Impact Through Code • One Project at a Time</b>
+🚀 <b>Building Secure • Scalable • Intelligent Systems</b>
 </p>
