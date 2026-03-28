@@ -29,7 +29,8 @@ Cybersecurity Enthusiast | 🏆 Hackathon Winner of INNOVATE X 5.0 - 2k26 🏆 |
 
 ## 🧠 Professional Summary
 
-Results-driven **Full Stack Developer & AI Enthusiast** with hands-on experience in building scalable web and mobile applications. Skilled in **React, React Native, Python, and Machine Learning**, with a strong interest in **cybersecurity and real-world problem solving**. Proven ability to develop impactful solutions through hackathons and internships, with a focus on performance, clean architecture, and user-centric design.
+Highly motivated **Full Stack Developer, AI & Cybersecurity Enthusiast** with proven experience in building scalable, real-world applications. Proficient in **React, React Native, Python, and Machine Learning**, with a strong focus on **secure system design and performance optimization**. Recognized for delivering impactful solutions in **hackathon environments**, with a problem-solving mindset and a commitment to clean, efficient, and production-ready code.
+
 
 ---
 
@@ -37,7 +38,7 @@ Results-driven **Full Stack Developer & AI Enthusiast** with hands-on experience
 
 ```yaml
 Name: Shivam Kumar
-Role: Full Stack Developer & AI Engineer
+Role: security researcher / Vulnerability analyzer
 Experience:
   - Cybersecurity Intern (Amroha Cyber Cell - APCSIP 2025)
   - Hackathon Winner (INNOVATE X 5.0 - 2026)
@@ -110,15 +111,23 @@ Prediction --> Frontend
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam255-ai&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam255-ai&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF"/>
 </p>
 
 ---
