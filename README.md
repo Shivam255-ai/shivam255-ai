@@ -60,7 +60,7 @@ Goal: Build scalable, secure, and impactful applications
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,python,java,git,github" />
 </p>
 
 ---
