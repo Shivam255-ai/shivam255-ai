@@ -284,39 +284,79 @@ Practical cybersecurity learning through security labs, vulnerability analysis, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
-    height="180"
-    alt="GitHub statistics"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
-    height="180"
-    alt="Top programming languages"
-  >
+  <a href="https://github.com/Shivam255-ai">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Shivam255-ai&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=12"
+      height="180"
+      alt="Shivam Kumar GitHub Statistics"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shivam255-ai">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam255-ai&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=12"
+      height="180"
+      alt="Shivam Kumar Top Programming Languages"
+    />
+  </a>
 </p>
+
+<br>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Shivam255-ai&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"
-    alt="GitHub streak"
-  >
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam255-ai&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Shivam%20Kumar%20%E2%80%94%20GitHub%20Activity"
+    width="95%"
+    alt="Shivam Kumar GitHub Activity Graph"
+  />
 </p>
+
+<br>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam255-ai&theme=tokyonight"
-    alt="GitHub profile summary"
-  >
+    width="95%"
+    alt="Shivam Kumar GitHub Profile Summary"
+  />
 </p>
+
+<br>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam255-ai&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF"
-    alt="GitHub activity graph"
-  >
+  <a href="https://github.com/Shivam255-ai?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117"
+      alt="GitHub Repositories"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shivam255-ai">
+    <img
+      src="https://img.shields.io/github/followers/Shivam255-ai?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117"
+      alt="GitHub Followers"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Shivam255-ai?tab=stars">
+    <img
+      src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117"
+      alt="GitHub Projects"
+    />
+  </a>
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/Shivam255-ai">
+    <img
+      src="https://komarev.com/ghpvc/?username=Shivam255-ai&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"
+      alt="GitHub Profile Views"
+    />
+  </a>
+</p> 
+```
 ---
 
 ## 🧭 Security Journey
